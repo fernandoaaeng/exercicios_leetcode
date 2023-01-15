@@ -1,3 +1,5 @@
+//1-bit and 2-bit Characters
+
 class Solution {
   public boolean isOneBitCharacter(int[] bits) {
     int idx = 0;
